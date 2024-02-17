@@ -1,0 +1,6 @@
+{
+  "extends": ["standard", "prettier"],
+  "rules": {
+    "n/no-callback-literal": "off"
+  }
+}

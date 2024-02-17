@@ -1,0 +1,15 @@
+export default {
+  ANCHOR: 'anchor',
+  BOUNDED_FLOOR: 'bounded-floor',
+  DEPTH_SENSING: 'depth-sensing',
+  DOM_OVERLAY: 'dom-overlay',
+  HAND_TRACKING: 'hand-tracking',
+  HIT_TEST: 'hit-test',
+  LAYERS: 'layers',
+  LIGHT_ESTIMATION: 'light-estimation',
+  LOCAL: 'local',
+  LOCAL_FLOOR: 'local-floor',
+  SECONDARY_VIEWS: 'secondary-views',
+  UNBOUNDED: 'unbounded',
+  VIEWER: 'viewer',
+}
